@@ -1,0 +1,24 @@
+using System;
+
+//Estudando if else
+
+class Aula13
+{
+    static void Main()
+    {
+        int numero = 10;
+
+        if (numero > 0)
+        {
+            Console.WriteLine("O número é positivo.");
+        }
+        else if (numero < 0)
+        {
+            Console.WriteLine("O número é negativo.");
+        }
+        else
+        {
+            Console.WriteLine("O número é zero.");
+        }
+    }
+}
