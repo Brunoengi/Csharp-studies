@@ -20,3 +20,6 @@ Aula 23 - Métodos nativos para vetores e matrizes
 Aula 24 - Métodos em classes
 Aula 25 - Passagem por valor e por referência
 Aula 26 - Argumento out
+Aula 27 - Argumento params - Parâmetros de tamanho variável
+
+
