@@ -17,4 +17,5 @@ Aula 17 - Array unidimensional / Vetor Unidimensional
 Aula 18 - Matrizes / Vetores Multidimensionais
 Aula 22 - for each
 Aula 23 - Métodos nativos para vetores e matrizes
-Aula 24 - Métodos
+Aula 24 - Métodos em classes
+Aula 25 - Passagem por valor e por referência
