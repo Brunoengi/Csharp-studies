@@ -24,5 +24,6 @@ Aula 27 - Argumento params - Parâmetros de tamanho variável
 Aula 28 - Classes e objetos
 Aula 29 - Construtores e destrutores
 Aula 30 - Sobrecarga de construtores
+Aula 31 - Classes e membros static
 
 
