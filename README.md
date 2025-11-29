@@ -1,5 +1,5 @@
 Aula 01 - Hello World
-<hr>
+</hr>
 Aula 02 - Escrevendo no Console
 
 Aula 03 - Escevendo no Console com concatenação
