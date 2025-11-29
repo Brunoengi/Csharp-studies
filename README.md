@@ -28,5 +28,6 @@ Aula 31 - Classes e membros static
 Aula 32 - This
 Aula 33 - Public vs Private
 Aula 34 - Herança
+Aula 35 - Cadeia de Herança e Construtor da classe base
 
 
