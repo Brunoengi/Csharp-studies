@@ -33,3 +33,4 @@
 - **Aula 35** – Cadeia de herança e construtor da classe base  
 - **Aula 36** – Membros `protected`  
 - **Aula 37** – Ordem de execução dos contrutores  
+- **Aula 38** – Métodos Virtuais 
