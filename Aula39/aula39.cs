@@ -52,6 +52,5 @@ class Aula39
         c1.Aceleracao();
 
         Console.WriteLine(c1.GetVelAtual());
-    
     }
 }
