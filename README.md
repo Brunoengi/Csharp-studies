@@ -38,3 +38,4 @@
 - **Aula 40** – Classe Sealed
 - **Aula 41** – GET e SET
 - **Aula 42** – Indexadores de Classes
+- **Aula 43** – Interfaces
