@@ -35,3 +35,4 @@
 - **Aula 37** – Ordem de execução dos contrutores  
 - **Aula 38** – Métodos Virtuais 
 - **Aula 39** – Classes e métodos abstratos
+- **Aula 40** – Classe Sealed
