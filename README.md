@@ -36,4 +36,5 @@
 - **Aula 38** – Métodos Virtuais 
 - **Aula 39** – Classes e métodos abstratos
 - **Aula 40** – Classe Sealed
-- **Aula 40** – GET e SET
+- **Aula 41** – GET e SET
+- **Aula 42** – Indexadores de Classes
