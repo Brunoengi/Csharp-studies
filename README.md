@@ -41,3 +41,4 @@
 - **Aula 43** – Interfaces
 - **Aula 44** – Struct
 - **Aula 45** – Array de Estruturas
+- **Aula 46** – Métodos que retornam objetos
