@@ -42,3 +42,5 @@
 - **Aula 44** – Struct
 - **Aula 45** – Array de Estruturas
 - **Aula 46** – Métodos que retornam objetos
+- **Aula 47** – Sobrecarga de métodos
+- **Aula 49** – Métodos e Variáveis Estáticos (static)
