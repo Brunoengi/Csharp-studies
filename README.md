@@ -39,3 +39,5 @@
 - **Aula 41** – GET e SET
 - **Aula 42** – Indexadores de Classes
 - **Aula 43** – Interfaces
+- **Aula 44** – Struct
+- **Aula 45** – Array de Estruturas
