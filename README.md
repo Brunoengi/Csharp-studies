@@ -44,3 +44,4 @@
 - **Aula 46** – Métodos que retornam objetos
 - **Aula 47** – Sobrecarga de métodos
 - **Aula 49** – Métodos e Variáveis Estáticos (static)
+- **Aula 50** – Delegates
