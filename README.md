@@ -51,3 +51,4 @@
 - **Aula 54** – Namespaces
 - **Aula 55** – Coleção Dictionary
 - **Aula 56** – Lista duplamente encadeada
+- **Aula 57** – Coleção List
