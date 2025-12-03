@@ -46,3 +46,5 @@
 - **Aula 49** – Métodos e Variáveis Estáticos (static)
 - **Aula 50** – Delegates
 - **Aula 51** – Argumentos de entrada do programa
+- **Aula 52** – Try Catch Finally - Parte 1
+- **Aula 53** – Try Catch Finally - Parte 2
