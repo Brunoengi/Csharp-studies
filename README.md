@@ -49,3 +49,4 @@
 - **Aula 52** – Try Catch Finally - Parte 1
 - **Aula 53** – Try Catch Finally - Parte 2
 - **Aula 54** – Namespaces
+- **Aula 55** – Coleção Dictionary
