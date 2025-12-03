@@ -48,3 +48,4 @@
 - **Aula 51** – Argumentos de entrada do programa
 - **Aula 52** – Try Catch Finally - Parte 1
 - **Aula 53** – Try Catch Finally - Parte 2
+- **Aula 54** – Namespaces
