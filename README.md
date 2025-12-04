@@ -51,4 +51,6 @@
 - **Aula 54** – Namespaces
 - **Aula 55** – Coleção Dictionary
 - **Aula 56** – Lista duplamente encadeada
-- **Aula 57** – Coleção List
+- **Aula 57** – Coleção List - Parte 1
+- **Aula 58** – Coleção List - Parte 2
+- **Aula 59** – Coleção Queue (Fila)
